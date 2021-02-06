@@ -1,7 +1,6 @@
 ﻿using Business.Concrete;
 using DataAccess.Concrete.EntityFramework.Repository;
 using DataAccess.Concrete.EntityFrameWork;
-using DataAccess.Concrete.InMemory;
 using Entities.Concrete;
 using System;
 
